@@ -58,6 +58,7 @@ npm run dev
 
 Open the local URL displayed in your terminal.
 
+
 ## Project Structure
 
     src/
@@ -86,6 +87,10 @@ Open the local URL displayed in your terminal.
 - Persistent data storage
 - Component-based architecture
 - Separation of concerns
+
+## What I Learned
+
+Through this project, I practiced managing global state with the Context API and useReducer, creating reusable custom React hooks, managing timers and side effects, optimizing component rendering, and persisting application data using localStorage.
 
 ## Author
 
